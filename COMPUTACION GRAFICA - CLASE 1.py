@@ -3,8 +3,7 @@
 COMPUTACION GRAFICA () - JUAN SEBASTIÁN RODRÍGUEZ RODRÍGUEZ 
 """
 
-    # METODO SORT
-
+# METODO SORT
 Numeros = []
 
 num1 = input("Por favor digite el primer numero: ")1
